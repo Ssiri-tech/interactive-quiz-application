@@ -1,1 +1,1 @@
-# interactive-quiz-application
+# Interactive-quiz-application
